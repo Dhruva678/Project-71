@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+iframe{
+    margin-top: 50px;
+}
+#myNavbar{
+    position: sticky;
+}
+.header_entrepreneur{
+    line-height:2;
+}
+.modal-content{
+    margin-top:100px;
+}
+..img_modal{
+    display:inline-block;
+}
+.p{
+    margin-top:10px;
+}
+.modal-body{
+    text-align: center;
+}
